@@ -1,8 +1,8 @@
 ## AgentBedWars
 
-You can use the [Discord](https://discord.gg/N9XQpCct6n) to contact us or email us at support@agentbedwars.tk
+You Can Use The [Discord](https://discord.gg/N9XQpCct6n) To Contact Us Or Email Us At [support@agentbedwars.tk](support@agentbedwars.tk)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Are You A YouTuber? DM The Owner To Claim Your YouTube Rank, Here's His Discord: MTGSquad#0554 Or Maybe DM The Other Owner: Agent_12#8684.
 
 ### What Do We Do?
 
