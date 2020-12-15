@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## AgentBedWars
 
-You can use the [editor on GitHub](https://github.com/mtgsquad/test-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Discord](https://discord.gg/N9XQpCct6n) to contact us or email us at support@agentbedwars.tk
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What Do We Do?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We Are A Cracked BedWars Server. What Cracked Minecarft Means Is That You're Playing The Game For Free, And We Support Cracked Clients So They Can Also Experience The Most Popular Mini-Game, BedWars.
 
-```markdown
-Syntax highlighted code block
+For Downloading Cracked Minecraft Use [Tlauncher](https://tlauncher.org/) What Tlauncher Is That You Can Use Any Username To Play Minecraft Without Paying For It.
 
-# Header 1
-## Header 2
-### Header 3
+### Why Can't You Buy Ranks?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtgsquad/test-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ranks Are Currently Not Available Because Our Site Is Still Not Fully Built And We're Working On Making Ranks Available Again.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having Trouble With The Server? Email Us [Here](mailto:support@agentbedwars.tk) oR Join The Discord [Here](https://discord.gg/N9XQpCct6n).
