@@ -1,6 +1,6 @@
 ## AgentBedWars
 
-You Can Use The [Discord](https://discord.gg/N9XQpCct6n) To Contact Us Or Email Us At [support@agentbedwars.tk](support@agentbedwars.tk)
+You Can Use The [Discord](https://discord.gg/N9XQpCct6n) To Contact Us Or Email Us At [support@agentbedwars.tk](mailto:support@agentbedwars.tk)
 
 Are You A YouTuber? DM The Owner To Claim Your YouTube Rank, Here's His Discord: MTGSquad#0554 Or Maybe DM The Other Owner: Agent_12#8684.
 
