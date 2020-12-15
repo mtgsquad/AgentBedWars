@@ -16,4 +16,4 @@ Ranks Are Currently Not Available Because Our Site Is Still Not Fully Built And 
 
 ### Support or Contact
 
-Having Trouble With The Server? Email Us [Here](mailto:support@agentbedwars.tk) oR Join The Discord [Here](https://discord.gg/N9XQpCct6n).
+Having Trouble With The Server? Email Us [Here](mailto:support@agentbedwars.tk) Or Join The Discord [Here](https://discord.gg/N9XQpCct6n).
